@@ -121,10 +121,12 @@ form button{
     background: #fff;
     margin-right: 15px;
     cursor: pointer;
-
+   
 }
 .social-icons{
     display: flex;
+    position: relative;
+    top: 30px;
 }
 .social-icons a{
     text-decoration: none;
